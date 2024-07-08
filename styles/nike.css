@@ -1,0 +1,151 @@
+.header_nav {background-color: black; color: white;}
+.header_nav header{ display: flex;}
+.header_nav header h1{margin-left: 40px; margin-right: 407px; }
+.header_nav header h1 a{}
+.header_nav header h1 a img {}
+.header_nav header nav{margin-right: 123px; margin-top: 26.5px;}
+.header_nav header nav a{color: white; margin-right: 100px; font-family: "Kanit"; font-size: 1.125rem;}
+.header_nav header .nav_icons{margin-top: 24.5px;}
+.header_nav header .nav_icons a{ color: white;}
+.header_nav header .nav_icons .search{ color: white; margin-right: 100px; color: #bbb;}
+.header_nav header .nav_icons a img{}
+/* =======================================================================================bg1============================================================================================= */
+.bg1 {background-image: url(../img/bg1.jpg); height: 870px;}
+/* =======================================================================================bg2============================================================================================= */
+.bg2 {background-color: #222; color: white;}
+.bg2 h1{font-family: "Kanit"; padding-top: 70px; font-size: 2.5rem; text-align: center; margin-bottom: 10px; font-weight: 500;}
+.bg2 h2 {font-family: "Kanit"; text-align: center; font-weight: 300;}
+.bg2 .more{border: 1px solid white; color: white;display: inline-block; margin-left: 800px; margin-right: 10px; padding: 10px 30px; border-radius: 5px; margin-top: 35px;}
+.bg2 .buy{background-color: white; color: black; display: inline-block;padding: 10px 40px; border-radius: 5px; margin-bottom: 75px;}
+/* =======================================================================================bg3============================================================================================= */
+.bg3{}
+.bg3 > h1 {text-align: center; padding-top: 101px; font-size: 2rem; font-weight: 500; margin-bottom: 18px;}
+.bg3 a{font-size: 0.938rem; margin-bottom: 3px; float: right;}
+.bg3 .bg3_wrap{margin-left: 227px;}
+.bg3 .bg3_wrap .airforce_wrap {width: 1466px;}
+.bg3 .bg3_wrap .airforce_wrap .airforce{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce1{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce1 a{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce1 a img{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce1 a .box{display: flex; margin-top: 5px; margin-bottom: 3px;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce1 a .box h1{font-weight: 500; margin-right: 210px;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce1 a .box p{font-weight: 500;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce1 a h2{font-size: 0.938rem;}
+/* 두번째  */
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce2{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce2 a{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce2 a img{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce2 a .box{display: flex; margin-top: 5px; margin-bottom: 3px;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce2 a .box h1{font-weight: 500; margin-right: 240px;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce2 a .box p{font-weight: 500;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce2 a h2{font-size: 0.938rem;}
+/* 세번째  */
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce3{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce3 a{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce3 a img{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce3 a .box{display: flex; margin-top: 5px; margin-bottom: 3px;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce3 a .box h1{font-weight: 500; margin-right: 210px;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce3 a .box p{font-weight: 500;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce3 a h2{font-size: 0.938rem;}
+/* 네번째  */
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce4{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce4 a{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce4 a img{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce4 a .box{display: flex; margin-top: 5px; margin-bottom: 3px;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce4 a .box h1{font-weight: 500; margin-right: 200px;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce4 a .box p{font-weight: 500;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce4 a h2{font-size: 0.938rem;}
+/* 다섯번째 */
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce5{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce5 a{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce5 a img{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce5 a .box{display: flex; margin-top: 5px; margin-bottom: 3px;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce5 a .box h1{font-weight: 500; margin-right: 210px;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce5 a .box p{font-weight: 500;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce5 a h2{font-size: 0.938rem;}
+/* 버튼 */
+.bg3 .bg3_wrap .airforce_wrap .swiper-button-prev{}
+.bg3 .bg3_wrap .airforce_wrap .swiper-button-next{}
+/* =======================================================================================bg4============================================================================================= */
+.bg4{}
+.bg4 >h1 {text-align: center; padding-top: 200px; font-size: 2rem; font-weight: 500; margin-bottom: 18px;;}
+.bg4 a{font-size: 0.938rem; margin-bottom: 3px; }
+.bg4 .bg4_wrap{margin-left: 227px;}
+.bg4 .bg4_wrap .Jordan_wrap {width: 1466px;}
+.bg4 .bg4_wrap .Jordan_wrap .Jordan{}
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .swiper-wrapper{}
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .swiper-wrapper .Jordan1 {} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .swiper-wrapper .Jordan1 a{} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .swiper-wrapper .Jordan1 a img{} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .swiper-wrapper .Jordan1 a .box{display: flex; margin-top: 5px; margin-bottom: 3px;} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .swiper-wrapper .Jordan1 a .box h1{font-weight: 500; margin-right: 280px;} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .swiper-wrapper .Jordan1 a .box p{font-weight: 500;} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .swiper-wrapper .Jordan1 a h2{font-size: 0.938rem;} 
+/*두번째  */
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan2 {} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan2 a{} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan2 a img{} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan2 a .box{display: flex; margin-top: 5px; margin-bottom: 3px;} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan2 a .box h1{font-weight: 500; margin-right: 280px} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan2 a .box p{font-weight: 500;} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan2 a h2{font-size: 0.938rem;} 
+/*세번째  */
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan3 {} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan3 a{} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper.swiper-wrapper  .Jordan3 a img{} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan3 a .box{display: flex; margin-top: 5px; margin-bottom: 3px;} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan3 a .box h1{font-weight: 500; margin-right: 250px} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan3 a .box p{font-weight: 500;} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan3 a h2{font-size: 0.938rem;} 
+/*네번째  */
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan4 {} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan4 a{} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan4 a img{} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan4 a .box{display: flex; margin-top: 5px; margin-bottom: 3px;} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan4 a .box h1{font-weight: 500; margin-right: 120px} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan4 a .box p{font-weight: 500;} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan4 a h2{font-size: 0.938rem;} 
+/*다섯번째  */
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan5 {} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan5 a{} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan5 a img{} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan5 a .box{display: flex; margin-top: 5px; margin-bottom: 3px;} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan5 a .box h1{font-weight: 500; margin-right: 235px} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan5 a .box p{font-weight: 500;} 
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-wrapper .Jordan5 a h2{font-size: 0.938rem;} 
+/*버튼  */
+.bg4 .bg4_wrap .Jordan_wrap .Jordan .mySwiper .swiper-scrollbar{} 
+/* =======================================================================================bg5============================================================================================= */
+.bg5{background-color: #222; display: flex; margin-top: 105px; padding-top: 213px;}
+.bg5 .left{margin-left: 336px;}
+.bg5 .left p{}
+.bg5 .left p img{}
+.bg5 .right{background-image: url(../img/bg5_like.png); background-repeat: no-repeat; width: 829px;}
+.bg5 .right h1{color: white; font-size: 2.5rem; font-weight: 500; margin-left: 114px; margin-top: 112px; margin-bottom: 15px; }
+.bg5 .right h2{color: white; margin-left: 114px; margin-bottom: 140px;}
+.bg5 .right .right_btm {display: flex;}
+.bg5 .right .right_btm p{}
+.bg5 .right .right_btm p img{}
+/* =======================================================================================bg6============================================================================================= */
+.bg6{padding-top: 102px; background-color: #222;}
+.bg6 h1{margin-left: 218px;}
+.bg6 h1 img{}
+.bg6 h2{text-align: center;} 
+.bg6 .detail1{color: white; text-align: right; margin-right: 212px;} 
+.bg6 .detail1 h1{font-size: 2rem; font-weight: 500; margin-bottom: 30px;} 
+.bg6 .detail1 h1 span{font-size: 2rem; font-weight: 500; color: #FF9F00;} 
+.bg6 .detail1 p {line-height: 23px; margin-bottom: 52px;}
+.bg6 .detail1 a{}
+.bg6 h3 img{margin-left: 692px;}
+.bg6 .detail2{color: white;}
+.bg6 .detail2 h1{font-size: 2rem; font-weight: 500; margin-bottom: 30px;} 
+.bg6 .detail2 h1 span{font-size: 2rem; font-weight: 500; color: #FF9F00;} 
+.bg6 .detail2 p{line-height: 23px; margin-bottom: 52px; margin-left: 218px;}
+.bg6 .detail2 a{margin-left: 218px; }
+/* =======================================================================================bg7============================================================================================= */
+.bg7 {padding-top: 198px; background-color: #222; color: white;}
+.bg7 h1{font-family: "Kanit"; margin-bottom: 12px; font-size: 2.5rem;margin-left: 40px;}
+.bg7 .imgs {margin-left: 40px;}
+.bg7 .imgs a {margin-right: 20px;}
+.bg7 .imgs .last {margin-right: 0;}
