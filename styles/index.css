@@ -1,0 +1,222 @@
+.header_nav {background-color: black; color: white;}
+.header_nav header{ display: flex;}
+.header_nav header h1{margin-left: 40px; margin-right: 407px; }
+.header_nav header h1 a{}
+.header_nav header h1 a img {}
+.header_nav header nav{margin-right: 123px; margin-top: 26.5px;}
+.header_nav header nav a{color: white; margin-right: 100px; font-family: "Kanit"; font-size: 1.125rem;}
+.header_nav header .nav_icons{margin-top: 24.5px;}
+.header_nav header .nav_icons a{ color: white;}
+.header_nav header .nav_icons .search{ color: white; margin-right: 100px; color: #bbb;}
+.header_nav header .nav_icons a img{}
+/* =======================================================================================bg1============================================================================================= */
+.bg1 {background-image: url(../img/bg1.jpg); height: 870px;}
+/* =======================================================================================bg2============================================================================================= */
+.bg2 {background-color: #000; color: white;}
+.bg2 h1{font-family: "Kanit"; padding-top: 70px; font-size: 2.5rem; text-align: center; margin-bottom: 10px; font-weight: 500;}
+.bg2 h2 {font-family: "Kanit"; text-align: center; font-weight: 300;}
+.bg2 .more{border: 1px solid white; color: white;display: inline-block; margin-left: 800px; margin-right: 10px; padding: 10px 30px; border-radius: 5px; margin-top: 35px;}
+.bg2 .buy{background-color: white; color: black; display: inline-block;padding: 10px 40px; border-radius: 5px; margin-bottom: 75px;}
+/* =======================================================================================bg3============================================================================================= */
+.bg3{}
+.bg3 > h1 {text-align: center; padding-top: 101px; font-size: 2rem; font-weight: 500; margin-bottom: 18px; font-family: "Kanit";}
+.bg3 .more{font-size: 0.938rem;margin-left: 1585px; color: #494949; border-bottom: 1px solid #494949; padding-bottom: 1px;}
+.bg3 .bg3_wrap{margin-left: 227px; margin-top: 14px;}
+.bg3 .bg3_wrap .airforce_wrap {width: 1466px; position: relative;}
+.bg3 .bg3_wrap .airforce_wrap .airforce{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce1{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce1 a{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce1 a img{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce1 a .box{display: flex; margin-top: 5px; margin-bottom: 3px;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce1 a .box h1{font-weight: 500; margin-right: 190px;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce1 a .box p{font-weight: 500;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce1 a h2{font-size: 0.938rem;}
+/* 에어포스 두번째  */
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce2{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce2 a{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce2 a img{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce2 a .box{display: flex; margin-top: 5px; margin-bottom: 3px;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce2 a .box h1{font-weight: 500; margin-right: 225px;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce2 a .box p{font-weight: 500;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce2 a h2{font-size: 0.938rem;}
+/* 에어포스 세번째  */
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce3{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce3 a{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce3 a img{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce3 a .box{display: flex; margin-top: 5px; margin-bottom: 3px;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce3 a .box h1{font-weight: 500; margin-right: 195px;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce3 a .box p{font-weight: 500;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce3 a h2{font-size: 0.938rem;}
+/* 에어포스 네번째  */
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce4{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce4 a{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce4 a img{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce4 a .box{display: flex; margin-top: 5px; margin-bottom: 3px;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce4 a .box h1{font-weight: 500; margin-right: 185px;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce4 a .box p{font-weight: 500;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce4 a h2{font-size: 0.938rem;}
+/* 에어포스 다섯번째 */
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce5{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce5 a{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce5 a img{}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce5 a .box{display: flex; margin-top: 5px; margin-bottom: 3px;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce5 a .box h1{font-weight: 500; margin-right: 195px;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce5 a .box p{font-weight: 500;}
+.bg3 .bg3_wrap .airforce_wrap .airforce .swiper-wrapper .airforce5 a h2{font-size: 0.938rem;}
+/* 에어포스 버튼 */
+.bg3 .bg3_wrap .airforce_wrap .swiper-scrollbar{transform: translateY(48px) translateX(-16px); height: 2px; } 
+/* =======================================================================================bg4============================================================================================= */
+.bg4{}
+.bg4 > h1 {text-align: center; padding-top: 161px; font-size: 2rem; font-weight: 500; margin-bottom: 18px; font-family: "Kanit";}
+.bg4 .more{font-size: 0.938rem;margin-left: 1585px; color: #494949; border-bottom: 1px solid #494949; padding-bottom: 1px;}
+.bg4 .bg4_wrap{margin-left: 227px; margin-top: 14px;}
+.bg4 .bg4_wrap .jordan_wrap {width: 1466px; position: relative;}
+.bg4 .bg4_wrap .jordan_wrap .jordan{}
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper{}
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan1 {} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan1 a{} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan1 a img{} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan1 a .box{display: flex; margin-top: 5px; margin-bottom: 3px;} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan1 a .box h1{font-weight: 500; margin-right: 270px;} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan1 a .box p{font-weight: 500;} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan1 a h2{font-size: 0.938rem;} 
+/*조던 두번째  */
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan2 {} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan2 a{} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan2 a img{} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan2 a .box{display: flex; margin-top: 5px; margin-bottom: 3px;} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan2 a .box h1{font-weight: 500; margin-right: 275px} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan2 a .box p{font-weight: 500;} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan2 a h2{font-size: 0.938rem;} 
+/*조던 세번째  */
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan3 {} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan3 a{} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan3 a img{} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan3 a .box{display: flex; margin-top: 5px; margin-bottom: 3px;} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan3 a .box h1{font-weight: 500; margin-right: 241px} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan3 a .box p{font-weight: 500;} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan3 a h2{font-size: 0.938rem;} 
+/*조던 네번째  */
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan4 {} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan4 a{} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan4 a img{} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan4 a .box{display: flex; margin-top: 5px; margin-bottom: 3px;} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan4 a .box h1{font-weight: 500; margin-right: 100px} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan4 a .box p{font-weight: 500;} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan4 a h2{font-size: 0.938rem;} 
+/*조던 다섯번째  */
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan5 {} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan5 a{} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan5 a img{} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan5 a .box{display: flex; margin-top: 5px; margin-bottom: 3px;} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan5 a .box h1{font-weight: 500; margin-right: 220px} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan5 a .box p{font-weight: 500;} 
+.bg4 .bg4_wrap .jordan_wrap .jordan .swiper-wrapper .jordan5 a h2{font-size: 0.938rem;} 
+/*조던 버튼  */
+.bg4 .bg4_wrap .jordan_wrap .swiper-scrollbar{transform: translateY(48px) translateX(-16px); height: 2px;} 
+/* =======================================================================================bg5============================================================================================= */
+.bg5 {background-image: url(../img/bg6_jojo.jpg) ; height: 880.22px; background-repeat: no-repeat; width: 1467.64px; margin: 0 auto; margin-top: 186px; margin-bottom: 205px;}
+.bg5 .all h1{font-size: 2rem; font-family: "Kanit"; margin-bottom: 15px;} 
+.bg5 .all h2{font-size: 1.25rem;}
+.bg5 .all a{border: 1px solid rgb(0, 0, 0); color: rgb(0, 0, 0);display: inline-block;margin-right: 10px; padding: 5px 30px; border-radius: 5px; margin-top: 25px;}
+.bg5 .all{padding-top: 690px; margin-left: 700px;}
+/* =======================================================================================bg6============================================================================================= */
+.bg6 {background-image: url(../img/bg6.jpg); height: 751px;}
+/* =======================================================================================bg7============================================================================================= */
+.bg7{background-color: black;text-align: center;}
+.bg7 h1{color: #FF9F00; font-size: 1.375rem; padding-top: 35px; margin-bottom: 10px;}
+.bg7 h2{color: white; font-size: 2.5rem;font-family: "Kanit"; margin-bottom: 10px;}
+.bg7 h3{color: white; font-size: 1.25rem;}
+.bg7 a{border: 1px solid white; color: white;display: inline-block;margin-right: 10px; padding: 10px 40px; border-radius: 5px; margin-top: 35px;}
+.bg7 .two{background-color: white; color: black; display: inline-block;padding: 10px 40px; border-radius: 5px; margin-bottom: 75px;font-weight: 500;}
+/* =======================================================================================bg8============================================================================================= */
+.bg8 {background-image: url(../img/bg8.jpg); height: 1510px; }
+.bg8 .all {width: 1492px; margin: 0 auto;}
+.bg8 .all .right{color: white;padding-top: 636px; float: right; text-align: right;}
+.bg8 .all .right h1{font-size: 2rem; margin-bottom: 26px;}
+.bg8 .all .right h1 span{color: #FF9F00;}
+.bg8 .all .right p{line-height: 26px; font-weight: 300;}
+.bg8 .all .right a{background-color: white; margin-top: 40px; display:inline-block;float: right; padding: 10px 30px; border-radius: 5px;  opacity: 0.9;}
+.bg8 .all .left{color: white; padding-top: 1244px;}
+.bg8 .all .left h1{font-size: 2rem; margin-bottom: 26px;}
+.bg8 .all .left h1 span{color: #FF9F00;}
+.bg8 .all .left p{line-height: 26px; font-weight: 300;}
+.bg8 .all .left a{background-color: white; margin-top: 40px; display:inline-block;padding: 10px 30px; border-radius: 5px;  opacity: 0.9;}
+/* =======================================================================================bg9============================================================================================= */
+.bg9 {background-color: black; color: white; padding-top: 120px; padding-bottom: 135px;}
+.bg9 h1 {font-size: 2.5rem;font-family: "Kanit"; margin-left: 32px; margin-bottom: 20px;}
+.bg9 .all {display: flex; width: 1840px; margin: 0 auto;}
+.bg9 .all .box1{margin-right: 20px;}
+.bg9 .all .box2{margin-right: 20px;}
+.bg9 .all .box3{}
+/* =======================================================================================bg10============================================================================================= */
+.bg10 {padding-top: 83px;}
+.bg10 h1{font-size: 2.5rem;font-family: "Kanit";margin-left: 29px; margin-bottom: 20px;}
+.bg10 .all {display: flex; width: 1840px; margin: 0 auto;}
+.bg10 .all .box1{background-image: url(../img/bg10_1.jpg); height: 439px; background-repeat: no-repeat; width: 910px; margin-right: 20px; color: white;}
+.bg10 .all .box1 h2{font-size: 1.125rem; padding-top: 228px; margin-bottom: 15px; margin-left: 34px;}
+.bg10 .all .box1 h3{font-size: 2.063rem; font-weight: 500;margin-left: 34px;}
+.bg10 .all .box1 a{margin-left: 34px;  display: inline-block; background-color: white; padding: 7px 30px; border-radius: 5px; margin-top: 15px; opacity: 0.9;}
+.bg10 .all .box2{background-image: url(../img/bg10_2.jpg); height: 439px; background-repeat: no-repeat; width: 910px; color: white;}
+.bg10 .all .box2 h3{font-size: 2.063rem; font-weight: 500;padding-top: 254px;margin-left: 34px;}
+.bg10 .all .box2 a{margin-left: 34px; display: inline-block; background-color: white; padding: 7px 30px; border-radius: 5px; margin-top: 15px; opacity: 0.9;}
+/* =======================================================================================bg11============================================================================================= */
+.bg11{margin-top: 140px; padding-bottom: 125px;}
+.bg11 h1{font-size: 2.5rem;font-family: "Kanit";margin-left: 29px; margin-bottom: 20px;}
+.bg11 .all {width: 1840px; margin: 0 auto; display: flex;}
+.bg11 .all .box1{background-image: url(../img/bg11_1.jpg); background-repeat: no-repeat; height: 667px; width: 603px; margin-right: 15px;}
+.bg11 .all .box1 h2{color: white; margin-top: 540px; font-size: 1.5rem; margin-left: 65px;}
+.bg11 .all .box1 a{margin-left: 65px; display: inline-block; padding: 7px 30px; background-color: white;  border-radius: 5px; margin-top: 14px;font-family: "Kanit"; opacity: 0.9;}
+.bg11 .all .box2{background-image: url(../img/bg11_2.jpg); background-repeat: no-repeat; height: 667px; width: 603px; margin-right: 15px;}
+.bg11 .all .box2 h2{color: white;color: white; margin-top: 540px; font-size: 1.5rem; margin-left: 65px;}
+.bg11 .all .box2 a{margin-left: 65px; display: inline-block; padding: 7px 30px; background-color: white;  border-radius: 5px; margin-top: 14px;font-family: "Kanit"; opacity: 0.9;}
+.bg11 .all .box3{background-image: url(../img/bg11_3.jpg); background-repeat: no-repeat; height: 667px; width: 603px;}
+.bg11 .all .box3 h2{color: white;color: white; margin-top: 540px; font-size: 1.5rem; margin-left: 65px;}
+.bg11 .all .box3 a{margin-left: 65px; display: inline-block; padding: 7px 30px; background-color: white;  border-radius: 5px; margin-top: 14px;font-family: "Kanit"; opacity: 0.9;}
+/* =======================================================================================footer============================================================================================= */
+.footer {background-color: #F5F5F5; font-size: 0.938rem;}
+.footer .all {width: 1563px; margin: 0 auto; display: flex;}
+.footer .all .left{padding-top: 54px; width: 832px;}
+.footer .all .left .top{margin-bottom: 30px;}
+.footer .all .left .top dl{display: flex;flex-flow: row wrap; }
+.footer .all .left .top dl dt{width: 107px; font-size: 1rem; font-weight: 500; line-height: 25px;}
+.footer .all .left .top dl dd{color: #454545; width: calc(100% - 107px); line-height: 25px;}
+.footer .all .left .btm{font-weight: 500;}
+.footer .all .left .btm p{font-size: 0.813rem; font-weight: 500;}
+.footer .all .left .btm .two{font-size: 0.813rem; font-weight: 500; margin-top: 12px;}
+.footer .all .right{padding-top: 54px; width: 544px; margin-left: 190px; margin-bottom: 60px;}
+.footer .all .right dl{display: flex; flex-flow: row wrap;}
+.footer .all .right dl dt{width: 191px;  font-size: 0.938rem; line-height: 28px; font-weight: 500;}
+.footer .all .right dl dd{width: calc(100% - 191px);  font-size: 0.938rem; line-height: 28px;}
+/* 애니메이션 */
+.bg2 .more{transition: 0.7s;}
+.bg2 .more:hover{transform: scale(1.05); }
+.bg2 .buy{transition: 0.7s;}
+.bg2 .buy:hover{transform: scale(1.05); }
+.bg7 a{transition: 0.7s;}
+.bg7 a:hover{transform: scale(1.05);}
+.bg7 .two{transition: 0.7s;}
+.bg7 .two:hover{transform: scale(1.05);}
+.bg8 .all .right a {transition: 0.7s;}
+.bg8 .all .right a:hover {transform: scale(1.05);}
+.bg8 .all .left a {transition: 0.7s;}
+.bg8 .all .left a:hover {transform: scale(1.05);}
+.bg9 .all .box1 {transition: 1s;}
+.bg9 .all .box1:hover{transform: scale(1.02);}
+.bg9 .all .box2 {transition: 1s;}
+.bg9 .all .box2:hover{transform: scale(1.02);}
+.bg9 .all .box3 {transition: 1s;}
+.bg9 .all .box3:hover{transform: scale(1.02);}
+.bg10 .all .box1 a{transition: 0.7s;}
+.bg10 .all .box1 a:hover{transform: scale(1.05);}
+.bg10 .all .box2 a{transition: 0.7s;}
+.bg10 .all .box2 a:hover{transform: scale(1.05);}
+.bg11 .all .box1 a{transition: 0.7s;}
+.bg11 .all .box1 a:hover{transform: scale(1.05);}
+.bg11 .all .box2 a{transition: 0.7s;}
+.bg11 .all .box2 a:hover{transform: scale(1.05);}
+.bg11 .all .box3 a{transition: 0.7s;}
+.bg11 .all .box3 a:hover{transform: scale(1.05);}
+.bg5 .all a{transition: 0.7s;}
+.bg5 .all a:hover{transform: scale(1.05);}

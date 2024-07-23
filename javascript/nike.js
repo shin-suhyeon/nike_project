@@ -4,17 +4,19 @@ const airforce = new Swiper('.airforce',{
     slidesPerView: 3,
     spaceBetween: 0,
     loop:'true',
+    scrollbar: {
+        el: ".airforce_wrap .swiper-scrollbar",
+        hide: false,
+        },
 })
-const Jordan = new Swiper('.Jordan',{
+const Jordan = new Swiper('.jordan',{
     autoplay:{delay:4000},
     direction:'horizontal',
     slidesPerView: 3,
     spaceBetween: 0,
     loop:'true',
-})
-var swiper = new Swiper(".mySwiper", {
     scrollbar: {
-    el: ".swiper-scrollbar",
-    hide: false,
-    },
-});
+        el: ".jordan_wrap .swiper-scrollbar",
+        hide: false,
+        },
+})
