@@ -1,4 +1,4 @@
-.header_nav {background-color: black; color: white;}
+.header_nav {background-color: black; color: white; position:sticky; top:0; z-index: 99999;}
 .header_nav header{ display: flex;}
 .header_nav header h1{margin-left: 40px; margin-right: 407px; }
 .header_nav header h1 a{}
